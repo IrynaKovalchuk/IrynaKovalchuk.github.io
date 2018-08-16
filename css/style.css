@@ -1,0 +1,22 @@
+.wrap {
+	width:960px;
+	margin:0 auto;
+}
+header{
+	text-align:center;
+	background:red;
+}
+.content {
+	width:80%;
+	float:left;
+	background:blue;
+}
+aside {
+	float:left;
+	background:yellow;
+	width:20%;
+}
+footer {
+      background:grean;
+	  clear:both;
+}	
